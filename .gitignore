@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+review.md
+references/experience-candidates.local.md
+skills/cultural-tourism-aigc/references/experience-candidates.local.md
+

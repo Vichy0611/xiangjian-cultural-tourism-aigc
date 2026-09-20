@@ -1,0 +1,5 @@
+interface:
+  display_name: "乡见文旅影像导演"
+  short_description: "从真实资料到分镜、声音、生成和成片质检的文旅视频工作流"
+  brand_color: "#143F36"
+  default_prompt: "Use $cultural-tourism-aigc to turn verified destination material into a production-ready tourism film plan."
